@@ -35,6 +35,11 @@
       "ProjectGuid": "dce34e12-5aa2-4c0c-847d-cce92c2db496",
       "DisplayName": "killy.K3.Demo.ServiceHelper",
       "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 7
