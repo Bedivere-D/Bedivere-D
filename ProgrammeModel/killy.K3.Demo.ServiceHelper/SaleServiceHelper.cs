@@ -21,7 +21,7 @@ namespace killy.K3.Demo.ServiceHelper
             catch (Exception ex)
             {
 
-                throw;
+                throw ex;
             }
             finally
             {

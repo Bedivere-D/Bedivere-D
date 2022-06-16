@@ -1,6 +1,6 @@
 ﻿using Killy.K3.Demo.Constracts;
+using Kingdee.BOS;
 using System.Collections.Generic;
-using System.Runtime.Remoting.Contexts;
 
 namespace Killy.K3.Demo.App.Core
 {
