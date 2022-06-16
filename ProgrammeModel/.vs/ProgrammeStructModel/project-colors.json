@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67f9ddc6-b12a-4d5f-9b73-e5a15c861cb7": {
+      "ProjectGuid": "67f9ddc6-b12a-4d5f-9b73-e5a15c861cb7",
+      "DisplayName": "Killy.K3.Demo.BusinessPlugIn",
+      "ColorIndex": 0
+    },
+    "4fe8dc57-8ffa-4acb-bbc3-66390f77bca6": {
+      "ProjectGuid": "4fe8dc57-8ffa-4acb-bbc3-66390f77bca6",
+      "DisplayName": "Killy.K3.Demo.ReportPlugIn",
+      "ColorIndex": 1
+    },
+    "72693bb8-eb03-44b4-864c-436fa5de9968": {
+      "ProjectGuid": "72693bb8-eb03-44b4-864c-436fa5de9968",
+      "DisplayName": "Killy.K3.Demo.ServicePlugIn",
+      "ColorIndex": 2
+    },
+    "84fa367e-e5d4-4cce-bc5b-81ddc876dc60": {
+      "ProjectGuid": "84fa367e-e5d4-4cce-bc5b-81ddc876dc60",
+      "DisplayName": "Killy.K3.Demo.App.Core",
+      "ColorIndex": 3
+    },
+    "2372bf14-8941-443f-9b5f-65c506890079": {
+      "ProjectGuid": "2372bf14-8941-443f-9b5f-65c506890079",
+      "DisplayName": "Killy.K3.Demo.Constracts",
+      "ColorIndex": 4
+    },
+    "26639d76-4a63-470b-8fbd-306a874a18c8": {
+      "ProjectGuid": "26639d76-4a63-470b-8fbd-306a874a18c8",
+      "DisplayName": "Killy.K3.Demo.Core",
+      "ColorIndex": 5
+    },
+    "dce34e12-5aa2-4c0c-847d-cce92c2db496": {
+      "ProjectGuid": "dce34e12-5aa2-4c0c-847d-cce92c2db496",
+      "DisplayName": "killy.K3.Demo.ServiceHelper",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
